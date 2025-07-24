@@ -98,3 +98,4 @@
 [20:10:17] [Server thread/INFO]: Villager Villager['Villager'/44, uuid='ba7fdbce-1748-4210-9aac-77f6b88bc554', l='ServerLevel[world]', x=864.68, y=61.00, z=93.30, cpos=[54, 5], tl=67479, v=true] died, message: 'Villager was slain by H_imperio'
 [20:16:37] [Server thread/INFO]: Villager Villager['Villager'/38, uuid='94a51386-c740-4abd-8795-75bb923ce838', l='ServerLevel[world]', x=861.33, y=61.00, z=105.70, cpos=[53, 6], tl=75069, v=true] died, message: 'Villager was slain by H_imperio'
 [20:22:00] [Server thread/INFO]: H_imperio has made the advancement [Cover Me with Diamonds]
+[20:33:33] [Server thread/INFO]: Villager Villager['Villager'/39, uuid='f3a66e95-999a-4e4f-b99b-0115d4eb93df', l='ServerLevel[world]', x=855.32, y=61.00, z=101.37, cpos=[53, 6], tl=95396, v=true] died, message: 'Villager was slain by H_imperio'
