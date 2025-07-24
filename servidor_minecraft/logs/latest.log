@@ -99,3 +99,47 @@
 [20:16:37] [Server thread/INFO]: Villager Villager['Villager'/38, uuid='94a51386-c740-4abd-8795-75bb923ce838', l='ServerLevel[world]', x=861.33, y=61.00, z=105.70, cpos=[53, 6], tl=75069, v=true] died, message: 'Villager was slain by H_imperio'
 [20:22:00] [Server thread/INFO]: H_imperio has made the advancement [Cover Me with Diamonds]
 [20:33:33] [Server thread/INFO]: Villager Villager['Villager'/39, uuid='f3a66e95-999a-4e4f-b99b-0115d4eb93df', l='ServerLevel[world]', x=855.32, y=61.00, z=101.37, cpos=[53, 6], tl=95396, v=true] died, message: 'Villager was slain by H_imperio'
+[20:37:06] [Server thread/INFO]: H_imperio lost connection: Disconnected
+[20:37:06] [Server thread/INFO]: H_imperio left the game
+[20:37:22] [Server thread/INFO]: Stopping the server
+[20:37:22] [Server thread/INFO]: Stopping server
+[20:37:22] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.7
+[20:37:22] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.2-SNAPSHOT
+[20:37:22] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[20:37:22] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[20:37:22] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.4.2-SNAPSHOT
+[20:37:22] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[20:37:22] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.2-SNAPSHOT
+[20:37:22] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[20:37:22] [Server thread/INFO]: Saving players
+[20:37:22] [WebSocketConnectReadThread-94/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[20:37:22] [Server thread/INFO]: Saving worlds
+[20:37:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:37:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[20:37:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[20:37:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[20:37:23] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world' in 0.03s
+[20:37:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[20:37:23] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[20:37:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[20:37:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[20:37:23] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[20:37:23] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[20:37:23] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 4 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[20:37:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[20:37:23] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[20:37:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[20:37:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[20:37:23] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[20:37:23] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[20:37:23] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
+[20:37:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[20:37:23] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[20:37:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:37:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:37:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:37:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:37:23] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[20:37:23] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[20:37:23] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[20:37:23] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
