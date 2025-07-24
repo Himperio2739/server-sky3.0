@@ -95,3 +95,4 @@
 [19:14:03] [Server thread/INFO]: H_imperio joined the game
 [19:14:03] [Server thread/INFO]: H_imperio[/127.26.159.67:55311] logged in with entity id 30 at ([world]868.929148300098, 61.5625, 102.28101265689403)
 [19:21:52] [Server thread/INFO]: H_imperio has made the advancement [Hot Stuff]
+[20:10:17] [Server thread/INFO]: Villager Villager['Villager'/44, uuid='ba7fdbce-1748-4210-9aac-77f6b88bc554', l='ServerLevel[world]', x=864.68, y=61.00, z=93.30, cpos=[54, 5], tl=67479, v=true] died, message: 'Villager was slain by H_imperio'
