@@ -130,3 +130,7 @@
 [01:36:08] [Server thread/INFO]: H_imperio has completed the challenge [Hero of the Village]
 [01:49:40] [Server thread/INFO]: H_imperio issued server command: /difficulty hard
 [01:49:40] [Server thread/INFO]: [H_imperio: The difficulty has been set to Hard]
+[01:55:21] [Server thread/INFO]: H_imperio has made the advancement [Diamonds!]
+[02:00:27] [Server thread/INFO]: H_imperio was blown up by Creeper
+[02:00:37] [Server thread/INFO]: H_imperio issued server command: /gamemode spectator
+[02:00:37] [Server thread/INFO]: [H_imperio: Set own game mode to Spectator Mode]
