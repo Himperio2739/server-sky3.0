@@ -94,3 +94,10 @@
 [03:09:19] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer]
 [03:09:22] [Server thread/INFO]: H_imperio joined the game
 [03:09:22] [Server thread/INFO]: H_imperio[/127.26.159.67:35953] logged in with entity id 30 at ([world]864.2123021019469, 61.5, 100.08801266579435)
+[03:30:21] [Server thread/WARN]: H_imperio moved wrongly!
+[03:35:08] [Server thread/INFO]: H_imperio was kicked due to keepalive timeout!
+[03:35:08] [Server thread/INFO]: H_imperio lost connection: Timed out
+[03:35:08] [Server thread/INFO]: H_imperio left the game
+[03:36:00] [User Authenticator #1/INFO]: UUID of player H_imperio is 554ba1d1-bcf2-3427-a8c0-008a2575b2aa
+[03:36:02] [Server thread/INFO]: H_imperio joined the game
+[03:36:02] [Server thread/INFO]: H_imperio[/127.26.159.67:54035] logged in with entity id 2919 at ([world]871.3697127421095, 59.9375, 79.0161457551921)
