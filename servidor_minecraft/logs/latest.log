@@ -117,3 +117,9 @@
 [00:54:31] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .ElRod4k disconnected
 [00:54:31] [Server thread/INFO]: .ElRod4k lost connection: Disconnected
 [00:54:31] [Server thread/INFO]: .ElRod4k left the game
+[01:27:06] [Server thread/INFO]: H_imperio was kicked due to keepalive timeout!
+[01:27:06] [Server thread/INFO]: H_imperio lost connection: Timed out
+[01:27:06] [Server thread/INFO]: H_imperio left the game
+[01:27:23] [User Authenticator #1/INFO]: UUID of player H_imperio is 554ba1d1-bcf2-3427-a8c0-008a2575b2aa
+[01:27:25] [Server thread/INFO]: H_imperio joined the game
+[01:27:25] [Server thread/INFO]: H_imperio[/127.26.159.67:51247] logged in with entity id 10663 at ([world]810.5722011576364, 68.9375, 78.70240131208729)
