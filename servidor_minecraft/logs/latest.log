@@ -109,3 +109,11 @@
 [00:51:43] [Async Chat Thread - #0/INFO]: [Not Secure] <H_imperio> pero si quieres
 [00:51:55] [Async Chat Thread - #0/INFO]: [Not Secure] <H_imperio> yo te respondo por aquí
 [00:52:17] [Server thread/INFO]: .ElRod4k was slain by Zombie
+[00:52:55] [Server thread/WARN]: .ElRod4k moved too quickly! -0.14488000000000056,0.0,-12.770250000000004
+[00:53:37] [Server thread/INFO]: .ElRod4k was shot by Stray
+[00:53:45] [Async Chat Thread - #2/INFO]: [Not Secure] <H_imperio> pasa coords
+[00:54:00] [Server thread/INFO]: .ElRod4k was slain by Zombie
+[00:54:31] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] ElRod4k has disconnected from the Java server because of Bedrock client timed out
+[00:54:31] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .ElRod4k disconnected
+[00:54:31] [Server thread/INFO]: .ElRod4k lost connection: Disconnected
+[00:54:31] [Server thread/INFO]: .ElRod4k left the game
