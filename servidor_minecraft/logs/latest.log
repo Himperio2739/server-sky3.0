@@ -100,3 +100,4 @@
 [22:33:30] [User Authenticator #1/INFO]: UUID of player H_imperio is 554ba1d1-bcf2-3427-a8c0-008a2575b2aa
 [22:33:32] [Server thread/INFO]: H_imperio joined the game
 [22:33:32] [Server thread/INFO]: H_imperio[/127.26.159.67:38157] logged in with entity id 1378 at ([world]863.434483429877, 65.9375, 94.36575404080345)
+[22:37:02] [Server thread/WARN]: H_imperio moved too quickly! -11.054746392115135,0.7508129212553172,1.151209003150008
