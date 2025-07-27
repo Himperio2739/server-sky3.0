@@ -98,3 +98,14 @@
 [19:47:57] [User Authenticator #1/INFO]: UUID of player H_imperio is 554ba1d1-bcf2-3427-a8c0-008a2575b2aa
 [19:47:58] [Server thread/INFO]: H_imperio joined the game
 [19:47:58] [Server thread/INFO]: H_imperio[/127.26.159.67:35141] logged in with entity id 2196 at ([world]860.308975543263, 62.0, 95.5958771677088)
+[20:18:15] [Server thread/WARN]: H_imperio moved too quickly! -5.217690948736731,-1.038075911786315,8.559917563061589
+[20:18:34] [Server thread/WARN]: H_imperio moved too quickly! -2.215739655353673,0.6389407054569602,-11.935774733144555
+[20:18:56] [Server thread/WARN]: H_imperio moved too quickly! -2.7244970313249723,0.6232643862182812,-16.95121444303632
+[20:19:03] [Server thread/WARN]: H_imperio moved too quickly! 1.9373932949855543,0.8544221821935309,9.836838238442652
+[20:19:08] [Server thread/WARN]: H_imperio was kicked for floating too long!
+[20:19:08] [Server thread/INFO]: H_imperio lost connection: Flying is not enabled on this server
+[20:19:08] [Server thread/INFO]: H_imperio left the game
+[20:19:17] [User Authenticator #2/INFO]: UUID of player H_imperio is 554ba1d1-bcf2-3427-a8c0-008a2575b2aa
+[20:19:19] [Server thread/INFO]: H_imperio joined the game
+[20:19:19] [Server thread/INFO]: H_imperio[/127.26.159.67:35867] logged in with entity id 7397 at ([world]858.7406395762856, 68.28225224855441, 80.50663144428673)
+[20:19:26] [Server thread/WARN]: H_imperio moved too quickly! 9.567748928210108,1.4199999868869781,8.273848262085039
