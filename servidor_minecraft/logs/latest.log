@@ -1,544 +1,95 @@
-[00:42:42] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[00:42:42] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[00:42:42] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[00:42:42] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
-[00:42:42] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
+[19:31:12] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[19:31:12] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[19:31:13] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[19:31:16] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
+[19:31:16] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
  - Geyser-Spigot (2.8.2-SNAPSHOT), SkinsRestorer (15.7.7), ViaBackwards (5.4.2-SNAPSHOT), ViaVersion (5.4.2-SNAPSHOT), floodgate (2.2.4-SNAPSHOT (b118-40d320a))
-[00:42:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:42:49] [ServerMain/INFO]: Loaded 1407 recipes
-[00:42:49] [ServerMain/INFO]: Loaded 1520 advancements
-[00:42:49] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[00:42:50] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 392.8ms
-[00:42:50] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[00:42:50] [Server thread/INFO]: Loading properties
-[00:42:50] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[00:42:50] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[00:42:50] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:42:50] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:42:51] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[00:42:51] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[00:42:52] [Server thread/INFO]: Default game type: SURVIVAL
-[00:42:52] [Server thread/INFO]: Generating keypair
-[00:42:52] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:42:52] [Server thread/INFO]: Using epoll channel type
-[00:42:52] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[00:42:52] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[00:42:53] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.2-SNAPSHOT
-[00:42:53] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.2-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
-[00:42:54] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[00:42:54] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[00:42:55] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[00:42:55] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[00:42:55] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b118-40d320a)
-[00:42:56] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[00:42:56] [Server thread/INFO]: [floodgate] Took 881ms to boot Floodgate
-[00:42:56] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.2-SNAPSHOT
-[00:42:56] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
-[00:42:57] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[00:42:57] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[00:42:57] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
-[00:42:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:42:57] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
-[00:42:58] [Server thread/ERROR]: [SkinsRestorer] Your Minecraft version (1.21.8) is not supported by this version of SkinsRestorer! Is there a newer version available? https://modrinth.com/plugin/skinsrestorer If not, join our Discord server!
-[00:42:58] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
-[00:42:58] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[00:42:59] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[00:42:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:42:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:42:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:42:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:42:59] [Server thread/INFO]: Preparing level "world"
-[00:42:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:42:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[00:42:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[00:42:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[00:42:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[00:42:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[00:42:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:42:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.7
-[00:42:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7eff058
-[00:42:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[00:42:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:42:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[00:42:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[00:42:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:43:00] [Server thread/INFO]: Preparing spawn area: 0%
-[00:43:00] [Server thread/INFO]: Preparing spawn area: 2%
-[00:43:00] [Server thread/INFO]: Preparing spawn area: 32%
-[00:43:00] [Server thread/INFO]: Time elapsed: 1272 ms
-[00:43:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[00:43:01] [Server thread/INFO]: Preparing spawn area: 0%
-[00:43:01] [Server thread/INFO]: Time elapsed: 346 ms
-[00:43:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[00:43:01] [Server thread/INFO]: Preparing spawn area: 0%
-[00:43:01] [Server thread/INFO]: Time elapsed: 252 ms
-[00:43:01] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.2-SNAPSHOT
-[00:43:01] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
-[00:43:01] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b118-40d320a)
-[00:43:01] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.2-SNAPSHOT
-[00:43:02] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
-[00:43:02] [Server thread/INFO]: [spark] Starting background profiler...
-[00:43:03] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[00:43:03] [Server thread/INFO]: [Geyser-Spigot] 
-[00:43:03] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b887 (git-master-1f23d1d)
-[00:43:03] [Server thread/INFO]: [Geyser-Spigot] 
-[00:43:03] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[00:43:07] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 2113
-[00:43:07] [Server thread/INFO]: [Geyser-Spigot] Done (4.095s)! Run /geyser help for help!
-[00:43:07] [Server thread/INFO]: Done preparing level "world" (8.844s)
-[00:43:07] [Server thread/INFO]: Running delayed init tasks
-[00:43:08] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[00:43:08] [Server thread/INFO]: Done (26.792s)! For help, type "help"
-[00:43:08] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.4.2, you're on: 5.4.2-SNAPSHOT
-[00:43:27] [User Authenticator #0/INFO]: UUID of player H_imperio is 554ba1d1-bcf2-3427-a8c0-008a2575b2aa
-[00:43:27] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer]
-[00:43:31] [Server thread/INFO]: H_imperio joined the game
-[00:43:31] [Server thread/INFO]: H_imperio[/127.26.159.67:47169] logged in with entity id 30 at ([world]866.8864022747867, 61.5625, 101.88404727867066)
-[00:49:36] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username ElRod4k
-[00:49:36] [localSession-7-2/INFO]: [Geyser-Spigot] ElRod4k (logged in as: ElRod4k) has connected to the Java server
-[00:49:37] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ElRod4k joined (UUID: 00000000-0000-0000-0009-01f5681b7441)
-[00:49:37] [Server thread/INFO]: .ElRod4k joined the game
-[00:49:37] [Server thread/INFO]: .ElRod4k[/127.195.129.48:0] logged in with entity id 983 at ([world]159.5, 68.0, -167.5)
-[00:49:37] [WebSocketConnectReadThread-155/INFO]: [floodgate] Got disconnected from the skin uploader: failed to find the given code in combination with the verify code
-[00:50:26] [Async Chat Thread - #0/INFO]: [Not Secure] <H_imperio> pasa coords we
-[00:50:53] [Async Chat Thread - #0/INFO]: [Not Secure] <.ElRod4k> Podes hablar por Discord?
-[00:50:59] [Async Chat Thread - #0/INFO]: [Not Secure] <H_imperio> ¿po?
-[00:51:05] [Async Chat Thread - #0/INFO]: [Not Secure] <H_imperio> si
-[00:51:21] [Async Chat Thread - #0/INFO]: [Not Secure] <.ElRod4k> Es incómodo por acá xd
-[00:51:38] [Async Chat Thread - #0/INFO]: [Not Secure] <H_imperio> a mi se me hace más comodo por acá
-[00:51:43] [Async Chat Thread - #0/INFO]: [Not Secure] <H_imperio> pero si quieres
-[00:51:55] [Async Chat Thread - #0/INFO]: [Not Secure] <H_imperio> yo te respondo por aquí
-[00:52:17] [Server thread/INFO]: .ElRod4k was slain by Zombie
-[00:52:55] [Server thread/WARN]: .ElRod4k moved too quickly! -0.14488000000000056,0.0,-12.770250000000004
-[00:53:37] [Server thread/INFO]: .ElRod4k was shot by Stray
-[00:53:45] [Async Chat Thread - #2/INFO]: [Not Secure] <H_imperio> pasa coords
-[00:54:00] [Server thread/INFO]: .ElRod4k was slain by Zombie
-[00:54:31] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] ElRod4k has disconnected from the Java server because of Bedrock client timed out
-[00:54:31] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .ElRod4k disconnected
-[00:54:31] [Server thread/INFO]: .ElRod4k lost connection: Disconnected
-[00:54:31] [Server thread/INFO]: .ElRod4k left the game
-[01:27:06] [Server thread/INFO]: H_imperio was kicked due to keepalive timeout!
-[01:27:06] [Server thread/INFO]: H_imperio lost connection: Timed out
-[01:27:06] [Server thread/INFO]: H_imperio left the game
-[01:27:23] [User Authenticator #1/INFO]: UUID of player H_imperio is 554ba1d1-bcf2-3427-a8c0-008a2575b2aa
-[01:27:25] [Server thread/INFO]: H_imperio joined the game
-[01:27:25] [Server thread/INFO]: H_imperio[/127.26.159.67:51247] logged in with entity id 10663 at ([world]810.5722011576364, 68.9375, 78.70240131208729)
-[01:38:46] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username ColdSnoW2486
-[01:38:46] [localSession-7-3/INFO]: [Geyser-Spigot] ColdSnoW2486 (logged in as: ColdSnoW2486) has connected to the Java server
-[01:38:46] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ColdSnoW2486 joined (UUID: 00000000-0000-0000-0009-01f2871f7db7)
-[01:38:46] [Server thread/INFO]: .ColdSnoW2486 joined the game
-[01:38:46] [Server thread/INFO]: .ColdSnoW2486[/127.165.93.127:0] logged in with entity id 12207 at ([world]-802.1964721679688, 62.23747863769531, 270.3470764160156)
-[01:39:08] [Async Chat Thread - #4/INFO]: [Not Secure] <.ColdSnoW2486> ?????
-[01:39:13] [Async Chat Thread - #4/INFO]: [Not Secure] <.ColdSnoW2486> we
-[01:39:23] [Async Chat Thread - #4/INFO]: [Not Secure] <H_imperio> ¿SI?
-[01:39:33] [Async Chat Thread - #4/INFO]: [Not Secure] <.ColdSnoW2486> no estoy en la aldea
-[01:39:39] [Async Chat Thread - #4/INFO]: [Not Secure] <.ColdSnoW2486> ayer me diste cosas de hierro
-[01:39:52] [Async Chat Thread - #5/INFO]: [Not Secure] <.ColdSnoW2486> hoy regreso y tengo las cosas que me desaparecieron ayer
-[01:39:56] [Async Chat Thread - #4/INFO]: [Not Secure] <.ColdSnoW2486> y en un barco
-[01:40:04] [Server thread/INFO]: H_imperio issued server command: /tp .coldsnow2486 h_imperio
-[01:40:04] [Server thread/INFO]: [H_imperio: Teleported .ColdSnoW2486 to H_imperio]
-[01:40:33] [Async Chat Thread - #4/INFO]: [Not Secure] <.ColdSnoW2486> que hiciste aquí?
-[01:40:34] [Async Chat Thread - #4/INFO]: [Not Secure] <H_imperio> wtf
-[01:40:39] [Async Chat Thread - #4/INFO]: [Not Secure] <H_imperio> hice bastante
-[01:40:56] [Async Chat Thread - #4/INFO]: [Not Secure] <.ColdSnoW2486> tienes lava?
-[01:41:01] [Async Chat Thread - #4/INFO]: [Not Secure] <H_imperio> si
-[01:41:07] [Async Chat Thread - #5/INFO]: [Not Secure] <.ColdSnoW2486> dame pla
-[01:41:09] [Async Chat Thread - #5/INFO]: [Not Secure] <.ColdSnoW2486> pls*
-[01:41:16] [Async Chat Thread - #5/INFO]: [Not Secure] <H_imperio> pera
-[01:41:26] [Async Chat Thread - #5/INFO]: [Not Secure] <H_imperio> tengo que ir a buscar
-[01:41:28] [Async Chat Thread - #5/INFO]: [Not Secure] <H_imperio> xd
-[01:41:50] [Async Chat Thread - #5/INFO]: [Not Secure] <.ColdSnoW2486> goood
-[01:41:54] [Async Chat Thread - #5/INFO]: [Not Secure] <.ColdSnoW2486> hay cañita
-[01:42:15] [Async Chat Thread - #5/INFO]: [Not Secure] <.ColdSnoW2486> y esto?
-[01:42:23] [Async Chat Thread - #5/INFO]: [Not Secure] <H_imperio> me va lag
-[01:42:41] [Async Chat Thread - #5/INFO]: [Not Secure] <H_imperio> ¿Que cosa?
-[01:42:44] [Async Chat Thread - #5/INFO]: [Not Secure] <.ColdSnoW2486> ya vi
-[01:42:49] [Async Chat Thread - #5/INFO]: [Not Secure] <.ColdSnoW2486> es una granja de hierro
-[01:43:00] [Server thread/INFO]: .ColdSnoW2486 has made the advancement [Sweet Dreams]
-[01:43:35] [Server thread/INFO]: .ColdSnoW2486 was shot by Skeleton
-[01:43:44] [Async Chat Thread - #5/INFO]: [Not Secure] <H_imperio> XD
-[01:43:56] [Async Chat Thread - #5/INFO]: [Not Secure] <.ColdSnoW2486> extraño mi armadura de netherite
-[01:44:09] [Async Chat Thread - #5/INFO]: [Not Secure] <H_imperio> Ahí hay un cofre con madre
-[01:44:14] [Async Chat Thread - #5/INFO]: [Not Secure] <H_imperio> madera
-[01:44:25] [Async Chat Thread - #5/INFO]: [Not Secure] <H_imperio> tradea y comprate la armor de diamante
-[01:44:36] [Async Chat Thread - #5/INFO]: [Not Secure] <H_imperio> AQUÍ
-[01:45:07] [Async Chat Thread - #5/INFO]: [Not Secure] <H_imperio> oye
-[01:45:26] [Async Chat Thread - #5/INFO]: [Not Secure] <H_imperio> ¿we?
-[01:45:32] [Async Chat Thread - #5/INFO]: [Not Secure] <.ColdSnoW2486> dime?
-[01:45:38] [Async Chat Thread - #5/INFO]: [Not Secure] <H_imperio> ven
-[01:45:41] [Async Chat Thread - #5/INFO]: [Not Secure] <H_imperio> agarra
-[01:45:51] [Async Chat Thread - #5/INFO]: [Not Secure] <.ColdSnoW2486> ntp
-[01:45:55] [Async Chat Thread - #5/INFO]: [Not Secure] <.ColdSnoW2486> ya vi el cofre
-[01:46:01] [Async Chat Thread - #5/INFO]: [Not Secure] <H_imperio> ah ya
-[01:46:12] [Async Chat Thread - #5/INFO]: [Not Secure] <.ColdSnoW2486> la granja de hierro funciona?
-[01:46:17] [Server thread/INFO]: .ColdSnoW2486 has made the advancement [What a Deal!]
-[01:46:32] [Async Chat Thread - #5/INFO]: [Not Secure] <H_imperio> maso
-[01:46:37] [Async Chat Thread - #5/INFO]: [Not Secure] <H_imperio> a veces
-[01:46:41] [Async Chat Thread - #5/INFO]: [Not Secure] <H_imperio> no sé por qué
-[01:46:52] [Async Chat Thread - #5/INFO]: [Not Secure] <.ColdSnoW2486> está extraño
-[01:46:56] [Async Chat Thread - #5/INFO]: [Not Secure] <H_imperio> si
-[01:47:03] [Async Chat Thread - #5/INFO]: [Not Secure] <H_imperio> igual esto es temporal
-[01:47:16] [Async Chat Thread - #5/INFO]: [Not Secure] <H_imperio> hasta que transporte a unos aldeanos lejitos y haga una posta
-[01:47:39] [Async Chat Thread - #5/INFO]: [Not Secure] <.ColdSnoW2486> entiendo
-[01:47:44] [Async Chat Thread - #4/INFO]: [Not Secure] <.ColdSnoW2486> espero no nos distanciemos
-[01:47:51] [Server thread/INFO]: .ColdSnoW2486 has made the advancement [Suit Up]
-[01:48:00] [Async Chat Thread - #4/INFO]: [Not Secure] <H_imperio> ¿Por?
-[01:48:22] [Async Chat Thread - #4/INFO]: [Not Secure] <.ColdSnoW2486> Solo digo
-[01:48:30] [Async Chat Thread - #4/INFO]: [Not Secure] <H_imperio> ah
-[01:48:33] [Async Chat Thread - #4/INFO]: [Not Secure] <.ColdSnoW2486> para seguir aliandonos(?
-[01:48:43] [Server thread/INFO]: .ColdSnoW2486 has made the advancement [Cover Me with Diamonds]
-[01:48:50] [Async Chat Thread - #4/INFO]: [Not Secure] <H_imperio> yo igual voy a irme medio lejitos
-[01:48:56] [Async Chat Thread - #4/INFO]: [Not Secure] <H_imperio> pero podemos conectar por nether
-[01:49:01] [Async Chat Thread - #4/INFO]: [Not Secure] <.ColdSnoW2486> terrible
-[01:49:17] [Async Chat Thread - #5/INFO]: [Not Secure] <H_imperio> tipo para tener una base central y nuestras casitas separados
-[01:49:44] [Async Chat Thread - #5/INFO]: [Not Secure] <.ColdSnoW2486> entiendo
-[01:50:08] [Async Chat Thread - #5/INFO]: [Not Secure] <.ColdSnoW2486> el server es de java, cierto?
-[01:50:12] [Server thread/WARN]: .ColdSnoW2486 moved wrongly!
-[01:50:13] [Async Chat Thread - #5/INFO]: [Not Secure] <H_imperio> si
-[01:50:19] [Async Chat Thread - #5/INFO]: [Not Secure] <.ColdSnoW2486> perfe
-[01:51:05] [Async Chat Thread - #5/INFO]: [Not Secure] <.ColdSnoW2486> mas tarde voy a picar piedra
-[01:51:16] [Async Chat Thread - #5/INFO]: [Not Secure] <.ColdSnoW2486> oe
-[01:51:19] [Async Chat Thread - #4/INFO]: [Not Secure] <H_imperio> ta bien
-[01:51:24] [Async Chat Thread - #4/INFO]: [Not Secure] <.ColdSnoW2486> ven
-[01:51:31] [Async Chat Thread - #4/INFO]: [Not Secure] <H_imperio> voy
-[01:51:36] [Async Chat Thread - #4/INFO]: [Not Secure] <.ColdSnoW2486> los zombificaste?
-[01:51:40] [Async Chat Thread - #4/INFO]: [Not Secure] <H_imperio> no
-[01:51:44] [Async Chat Thread - #4/INFO]: [Not Secure] <.ColdSnoW2486> a
-[01:51:48] [Async Chat Thread - #4/INFO]: [Not Secure] <.ColdSnoW2486> tremendo
-[01:51:49] [Async Chat Thread - #4/INFO]: [Not Secure] <H_imperio> no fui al nether
-[01:52:02] [Async Chat Thread - #4/INFO]: [Not Secure] <.ColdSnoW2486> que tiene que ver?
-[01:52:10] [Async Chat Thread - #4/INFO]: [Not Secure] <H_imperio> pala las berrugas ps
-[01:52:17] [Async Chat Thread - #4/INFO]: [Not Secure] <.ColdSnoW2486> cierto
-[01:52:22] [Async Chat Thread - #4/INFO]: [Not Secure] <H_imperio> y el blaze
-[01:52:25] [Async Chat Thread - #4/INFO]: [Not Secure] <.ColdSnoW2486> lo olvidé
-[01:53:06] [Async Chat Thread - #4/INFO]: [Not Secure] <.ColdSnoW2486> rod jugó?
-[01:53:17] [Async Chat Thread - #4/INFO]: [Not Secure] <H_imperio> no
-[01:53:27] [Async Chat Thread - #4/INFO]: [Not Secure] <H_imperio> le iba muy lag y lo hechó del server
-[01:53:33] [Async Chat Thread - #4/INFO]: [Not Secure] <.ColdSnoW2486> nmms
-[01:54:29] [Async Chat Thread - #4/INFO]: [Not Secure] <H_imperio> ya está nivel diamante los aldeanos
-[01:54:35] [Async Chat Thread - #4/INFO]: [Not Secure] <.ColdSnoW2486> ya vi
-[01:54:39] [Async Chat Thread - #4/INFO]: [Not Secure] <H_imperio> ah
-[01:54:45] [Async Chat Thread - #4/INFO]: [Not Secure] <.ColdSnoW2486> tremendo laburo
-[01:54:49] [Async Chat Thread - #4/INFO]: [Not Secure] <H_imperio> chi
-[01:54:58] [Async Chat Thread - #4/INFO]: [Not Secure] <.ColdSnoW2486> y mas en java
-[01:56:57] [Async Chat Thread - #6/INFO]: [Not Secure] <.ColdSnoW2486> la pechera?
-[01:57:02] [Async Chat Thread - #6/INFO]: [Not Secure] <H_imperio> ?
-[01:57:06] [Async Chat Thread - #7/INFO]: [Not Secure] <H_imperio> está ahí
-[01:57:11] [Async Chat Thread - #7/INFO]: [Not Secure] <H_imperio> es el que está suelto
-[01:57:17] [Async Chat Thread - #7/INFO]: [Not Secure] <.ColdSnoW2486> ah
-[01:57:35] [Async Chat Thread - #7/INFO]: [Not Secure] <.ColdSnoW2486> ta enojado conmigo
-[01:57:47] [Async Chat Thread - #7/INFO]: [Not Secure] <H_imperio> porque le abrás pegado
-[01:57:51] [Async Chat Thread - #7/INFO]: [Not Secure] <.ColdSnoW2486> sis
-[01:57:56] [Async Chat Thread - #7/INFO]: [Not Secure] <.ColdSnoW2486> fue un accidente
-[01:58:06] [Async Chat Thread - #7/INFO]: [Not Secure] <H_imperio> voy
-[01:58:16] [Server thread/INFO]: .ColdSnoW2486 has made the advancement [Diamonds!]
-[01:58:34] [Async Chat Thread - #7/INFO]: [Not Secure] <H_imperio> dame la esmeralda y te compro
-[01:58:39] [Async Chat Thread - #7/INFO]: [Not Secure] <H_imperio> ah
-[01:58:44] [Async Chat Thread - #7/INFO]: [Not Secure] <.ColdSnoW2486> no tengo muchas
-[02:00:08] [Async Chat Thread - #8/INFO]: [Not Secure] <.ColdSnoW2486> grazia
-[02:00:20] [Async Chat Thread - #8/INFO]: [Not Secure] <.ColdSnoW2486> voy a minar
-[02:00:24] [Async Chat Thread - #8/INFO]: [Not Secure] <H_imperio> oka
-[02:01:27] [Async Chat Thread - #10/INFO]: [Not Secure] <.ColdSnoW2486> agarré papas we
-[02:01:29] [Async Chat Thread - #10/INFO]: [Not Secure] <.ColdSnoW2486> las asadas
-[02:01:38] [Async Chat Thread - #10/INFO]: [Not Secure] <H_imperio> tranqui
-[02:01:45] [Async Chat Thread - #10/INFO]: [Not Secure] <H_imperio> con confianza
-[02:01:57] [Async Chat Thread - #10/INFO]: [Not Secure] <.ColdSnoW2486> grazia
-[02:02:20] [Server thread/INFO]: .ColdSnoW2486 has made the advancement [Stone Age]
-[02:03:14] [Async Chat Thread - #12/INFO]: [Not Secure] <.ColdSnoW2486> recuerdame conseguir mas cobblestone
-[02:03:32] [Async Chat Thread - #12/INFO]: [Not Secure] <H_imperio> ¿Para?
-[02:03:51] [Async Chat Thread - #12/INFO]: [Not Secure] <.ColdSnoW2486> algo para conseguir netherite a gusto y cohetes
-[02:04:07] [Async Chat Thread - #12/INFO]: [Not Secure] <H_imperio> oka
-[02:04:26] [Server thread/INFO]: H_imperio has made the advancement [A Seedy Place]
-[02:06:51] [Server thread/INFO]: H_imperio has made the advancement [The Parrots and the Bats]
-[02:09:12] [Async Chat Thread - #14/INFO]: [Not Secure] <H_imperio> recuerdame que tengo que recordarte conseguir cobblestone
-[02:09:19] [Async Chat Thread - #14/INFO]: [Not Secure] <H_imperio> xd
-[02:09:28] [Async Chat Thread - #14/INFO]: [Not Secure] <.ColdSnoW2486> gracias
-[02:12:45] [Server thread/WARN]: .ColdSnoW2486 moved wrongly!
-[02:13:11] [Async Chat Thread - #16/INFO]: [Not Secure] <.ColdSnoW2486> chale we
-[02:13:22] [Async Chat Thread - #16/INFO]: [Not Secure] <H_imperio> que we
-[02:13:23] [Async Chat Thread - #16/INFO]: [Not Secure] <.ColdSnoW2486> no tengo el barrido X'D
-[02:13:30] [Async Chat Thread - #16/INFO]: [Not Secure] <H_imperio> tmr
-[02:18:30] [Async Chat Thread - #18/INFO]: [Not Secure] <.ColdSnoW2486> que recuerdos cuando una mineshaft era simbolo de muchos diamantes cerca
-[02:19:07] [Async Chat Thread - #18/INFO]: [Not Secure] <H_imperio> hay una mina cerca con una mineshaft y yo hagarré todos los diamantes de ahí
-[02:19:33] [Async Chat Thread - #18/INFO]: [Not Secure] <.ColdSnoW2486> odio los esqueletos we
-[02:19:54] [Async Chat Thread - #18/INFO]: [Not Secure] <H_imperio> xd
-[02:20:50] [Async Chat Thread - #18/INFO]: [Not Secure] <.ColdSnoW2486> 10 diamantes
-[02:22:15] [Async Chat Thread - #20/INFO]: [Not Secure] <H_imperio> trae oro también
-[02:22:19] [Async Chat Thread - #20/INFO]: [Not Secure] <H_imperio> nos sirve
-[02:23:08] [Async Chat Thread - #20/INFO]: [Not Secure] <.ColdSnoW2486> dale
-[02:25:43] [Async Chat Thread - #22/INFO]: [Not Secure] <.ColdSnoW2486> que pesadilla los esqueletos wn
-[02:26:01] [Async Chat Thread - #22/INFO]: [Not Secure] <H_imperio> cuando fuí casi me mata uno
-[02:26:08] [Async Chat Thread - #22/INFO]: [Not Secure] <H_imperio> me quede a medio cora
-[02:26:15] [Async Chat Thread - #22/INFO]: [Not Secure] <.ColdSnoW2486> los odio wn
-[02:27:51] [Async Chat Thread - #24/INFO]: [Not Secure] <.ColdSnoW2486> ?????
-[02:27:54] [Async Chat Thread - #24/INFO]: [Not Secure] <H_imperio> ??
-[02:28:01] [Async Chat Thread - #24/INFO]: [Not Secure] <.ColdSnoW2486> 1 corazon por flecha me bajan
-[02:28:13] [Async Chat Thread - #24/INFO]: [Not Secure] <H_imperio> ps no tienes prote
-[02:28:28] [Async Chat Thread - #24/INFO]: [Not Secure] <.ColdSnoW2486> ya pero
-[02:28:31] [Async Chat Thread - #24/INFO]: [Not Secure] <.ColdSnoW2486> que exagerado
-[02:28:36] [Async Chat Thread - #24/INFO]: [Not Secure] <.ColdSnoW2486> ni que llevara cuero
-[02:28:42] [Async Chat Thread - #24/INFO]: [Not Secure] <H_imperio> ps bueno
-[02:28:46] [Async Chat Thread - #24/INFO]: [Not Secure] <H_imperio> a mi me parece bien
-[02:29:44] [Async Chat Thread - #24/INFO]: [Not Secure] <.ColdSnoW2486> TREMENDO TRICKSHOT
-[02:30:06] [Async Chat Thread - #24/INFO]: [Not Secure] <.ColdSnoW2486> venia cayendo el esqueleto y me dió en el aire nmms
-[02:30:13] [Async Chat Thread - #24/INFO]: [Not Secure] <H_imperio> AJJASHSA
-[02:34:54] [Async Chat Thread - #26/INFO]: [Not Secure] <.ColdSnoW2486> 20 de oro
-[02:35:12] [Async Chat Thread - #26/INFO]: [Not Secure] <H_imperio> god, 2 manzanitas
-[02:37:35] [Async Chat Thread - #28/INFO]: [Not Secure] <.ColdSnoW2486> grefg ganó la velada we
-[02:37:44] [Async Chat Thread - #28/INFO]: [Not Secure] <H_imperio> era obvio
-[02:37:57] [Async Chat Thread - #28/INFO]: [Not Secure] <.ColdSnoW2486> si XD
-[02:38:04] [Server thread/INFO]: .ColdSnoW2486 was blown up by Creeper
-[02:38:12] [Async Chat Thread - #28/INFO]: [Not Secure] <.ColdSnoW2486> ?????
-[02:38:14] [Async Chat Thread - #28/INFO]: [Not Secure] <H_imperio> noooo
-[02:38:18] [Async Chat Thread - #28/INFO]: [Not Secure] <.ColdSnoW2486> estaba a full
-[02:38:26] [Async Chat Thread - #28/INFO]: [Not Secure] <H_imperio> te mata igual we
-[02:38:45] [Server thread/INFO]: .ColdSnoW2486 has made the advancement [Isn't It Iron Pick]
-[02:39:14] [Async Chat Thread - #28/INFO]: [Not Secure] <.ColdSnoW2486> debes considerar hacer bibliotecarios
-[02:39:30] [Async Chat Thread - #28/INFO]: [Not Secure] <H_imperio> estoy consiguiendo para hacer eso
-[02:40:53] [Async Chat Thread - #30/INFO]: [Not Secure] <.ColdSnoW2486> recuperé todo
-[02:40:59] [Async Chat Thread - #30/INFO]: [Not Secure] <H_imperio> gooood
-[02:41:34] [Async Chat Thread - #30/INFO]: [Not Secure] <.ColdSnoW2486> grefg re preparado we
-[02:41:44] [Async Chat Thread - #30/INFO]: [Not Secure] <.ColdSnoW2486> y westcol que no hizo nada
-[02:42:00] [Async Chat Thread - #30/INFO]: [Not Secure] <.ColdSnoW2486> y la gente todavía decia que Westcol le iba a ganar XD
-[02:42:19] [Async Chat Thread - #30/INFO]: [Not Secure] <H_imperio> man, westcol no toma halcohol un dia y se muere
-[02:42:35] [Async Chat Thread - #30/INFO]: [Not Secure] <.ColdSnoW2486> el man me cae re mal
-[02:42:41] [Async Chat Thread - #30/INFO]: [Not Secure] <H_imperio> x2
-[02:43:01] [Async Chat Thread - #30/INFO]: [Not Secure] <.ColdSnoW2486> y su comunidad we
-[02:43:03] [Async Chat Thread - #30/INFO]: [Not Secure] <.ColdSnoW2486> que asco
-[02:43:09] [Async Chat Thread - #30/INFO]: [Not Secure] <H_imperio> lit we
-[02:43:20] [Async Chat Thread - #30/INFO]: [Not Secure] <H_imperio> hace unos días acosaron a una streamer argentina
-[02:43:35] [Async Chat Thread - #30/INFO]: [Not Secure] <.ColdSnoW2486> eso estuve leyendo
-[02:43:46] [Async Chat Thread - #30/INFO]: [Not Secure] <.ColdSnoW2486> y la comunidad de westcol diciendo que se la viole
-[02:43:51] [Async Chat Thread - #30/INFO]: [Not Secure] <.ColdSnoW2486> ya no que la coja we
-[02:43:54] [Async Chat Thread - #30/INFO]: [Not Secure] <.ColdSnoW2486> QUE LA VIOLE
-[02:43:56] [Async Chat Thread - #30/INFO]: [Not Secure] <H_imperio> lit
-[02:43:59] [Async Chat Thread - #30/INFO]: [Not Secure] <H_imperio> esa mrd
-[02:44:04] [Server thread/WARN]: H_imperio was kicked for floating too long!
-[02:44:04] [Server thread/INFO]: H_imperio lost connection: Flying is not enabled on this server
-[02:44:04] [Server thread/INFO]: H_imperio left the game
-[02:44:11] [User Authenticator #2/INFO]: UUID of player H_imperio is 554ba1d1-bcf2-3427-a8c0-008a2575b2aa
-[02:44:12] [Server thread/INFO]: H_imperio joined the game
-[02:44:12] [Server thread/INFO]: H_imperio[/127.26.159.67:42327] logged in with entity id 23686 at ([world]871.2859391833015, 59.612299978995324, 89.08615682144442)
-[02:44:17] [Async Chat Thread - #30/INFO]: [Not Secure] <H_imperio> mucho lag
-[02:44:18] [Async Chat Thread - #30/INFO]: [Not Secure] <H_imperio> xd
-[02:44:25] [Async Chat Thread - #30/INFO]: [Not Secure] <.ColdSnoW2486> 32 de oro
-[02:44:33] [Async Chat Thread - #30/INFO]: [Not Secure] <H_imperio> GOOD
-[02:46:47] [Async Chat Thread - #32/INFO]: [Not Secure] <H_imperio> ¿tienes cama?
-[02:46:59] [Async Chat Thread - #32/INFO]: [Not Secure] <.ColdSnoW2486> no pero ya voy subiendo
-[02:47:04] [Async Chat Thread - #32/INFO]: [Not Secure] <H_imperio> oka
-[02:48:56] [Async Chat Thread - #34/INFO]: [Not Secure] <.ColdSnoW2486> ten
-[02:49:12] [Async Chat Thread - #34/INFO]: [Not Secure] <H_imperio> gracia
-[02:49:43] [Async Chat Thread - #34/INFO]: [Not Secure] <.ColdSnoW2486> dejé mas diamantes por si acaso
-[02:51:52] [Async Chat Thread - #36/INFO]: [Not Secure] <.ColdSnoW2486> tienes gatos?
-[02:52:08] [Async Chat Thread - #36/INFO]: [Not Secure] <H_imperio> no
-[02:52:23] [Async Chat Thread - #36/INFO]: [Not Secure] <.ColdSnoW2486> el trading hall no produce?
-[02:53:28] [Async Chat Thread - #38/INFO]: [Not Secure] <.ColdSnoW2486> necesito 2 gatitos
-[02:53:36] [Async Chat Thread - #38/INFO]: [Not Secure] <H_imperio> ve a pescar we
-[02:53:43] [Async Chat Thread - #38/INFO]: [Not Secure] <.ColdSnoW2486> ?
-[02:53:53] [Server thread/WARN]: H_imperio moved too quickly! 0.32970768056338784,0.8133129212553172,19.830877471902923
-[02:54:06] [Async Chat Thread - #38/INFO]: [Not Secure] <H_imperio> para domesticar
-[02:54:16] [Async Chat Thread - #38/INFO]: [Not Secure] <.ColdSnoW2486> ya pero
-[02:54:20] [Async Chat Thread - #38/INFO]: [Not Secure] <.ColdSnoW2486> y los gatos? xd
-[02:54:37] [Async Chat Thread - #38/INFO]: [Not Secure] <H_imperio> ah
-[02:54:45] [Async Chat Thread - #38/INFO]: [Not Secure] <H_imperio> deberían spawnear
-[02:54:50] [Async Chat Thread - #38/INFO]: [Not Secure] <.ColdSnoW2486> portal en ruinas we
-[02:54:51] [Async Chat Thread - #38/INFO]: [Not Secure] <H_imperio> hace unos días vi algunos
-[02:55:08] [Async Chat Thread - #38/INFO]: [Not Secure] <.ColdSnoW2486> lo viste?
-[02:55:12] [Async Chat Thread - #38/INFO]: [Not Secure] <H_imperio> si
-[02:55:42] [Server thread/INFO]: .ColdSnoW2486 has made the advancement [Ice Bucket Challenge]
-[02:56:27] [Async Chat Thread - #40/INFO]: [Not Secure] <H_imperio> me acabo de dar cuenta que mi barra de experiencia me dice donde estás
-[02:56:43] [Async Chat Thread - #40/INFO]: [Not Secure] <.ColdSnoW2486> solo si estamos cerca
-[02:56:49] [Async Chat Thread - #40/INFO]: [Not Secure] <H_imperio> ah
-[02:56:52] [Async Chat Thread - #40/INFO]: [Not Secure] <H_imperio> no sabía
-[02:56:58] [Server thread/INFO]: .ColdSnoW2486 has made the advancement [Who is Cutting Onions?]
-[02:57:17] [Async Chat Thread - #40/INFO]: [Not Secure] <.ColdSnoW2486> falta 1 de obsidiana
-[02:57:31] [Async Chat Thread - #40/INFO]: [Not Secure] <H_imperio> sigueme
-[02:58:14] [Async Chat Thread - #40/INFO]: [Not Secure] <.ColdSnoW2486> god
-[03:00:01] [Async Chat Thread - #42/INFO]: [Not Secure] <.ColdSnoW2486> tienes caña?
-[03:00:10] [Async Chat Thread - #42/INFO]: [Not Secure] <H_imperio> está en el cofre
-[03:00:33] [Async Chat Thread - #42/INFO]: [Not Secure] <.ColdSnoW2486> ?
-[03:00:55] [Async Chat Thread - #42/INFO]: [Not Secure] <H_imperio> ¿no lo ves?
-[03:01:02] [Async Chat Thread - #42/INFO]: [Not Secure] <H_imperio> ahhhh
-[03:01:05] [Async Chat Thread - #42/INFO]: [Not Secure] <H_imperio> esa
-[03:01:12] [Async Chat Thread - #42/INFO]: [Not Secure] <H_imperio> yo pensé la caña de azucar
-[03:01:33] [Server thread/INFO]: .ColdSnoW2486 has made the advancement [Fishy Business]
-[03:01:46] [Async Chat Thread - #42/INFO]: [Not Secure] <.ColdSnoW2486> pez globo
-[03:05:31] [Async Chat Thread - #44/INFO]: [Not Secure] <.ColdSnoW2486> tienes podzol por los retoños de los abetos?
-[03:05:47] [Async Chat Thread - #44/INFO]: [Not Secure] <H_imperio> ¿Qué?
-[03:05:56] [Async Chat Thread - #44/INFO]: [Not Secure] <.ColdSnoW2486> pera
-[03:06:20] [Async Chat Thread - #44/INFO]: [Not Secure] <.ColdSnoW2486> no me saltó logro del portal
-[03:06:29] [Async Chat Thread - #44/INFO]: [Not Secure] <H_imperio> tienes que entrar
-[03:06:33] [Async Chat Thread - #44/INFO]: [Not Secure] <.ColdSnoW2486> a
-[03:06:51] [Async Chat Thread - #44/INFO]: [Not Secure] <.ColdSnoW2486> btw sibe
-[03:06:53] [Async Chat Thread - #44/INFO]: [Not Secure] <.ColdSnoW2486> sube*
-[03:07:08] [Async Chat Thread - #44/INFO]: [Not Secure] <H_imperio> que
-[03:07:16] [Async Chat Thread - #44/INFO]: [Not Secure] <.ColdSnoW2486> ven a la granja de hierro
-[03:07:35] [Async Chat Thread - #44/INFO]: [Not Secure] <.ColdSnoW2486> podzol
-[03:07:37] [Async Chat Thread - #44/INFO]: [Not Secure] <H_imperio> ?
-[03:07:47] [Async Chat Thread - #44/INFO]: [Not Secure] <.ColdSnoW2486> esta tierra
-[03:07:53] [Async Chat Thread - #44/INFO]: [Not Secure] <H_imperio> ¿qué tiene?
-[03:07:53] [Async Chat Thread - #44/INFO]: [Not Secure] <.ColdSnoW2486> es podzol
-[03:08:01] [Async Chat Thread - #44/INFO]: [Not Secure] <H_imperio> ah, ¿y?
-[03:08:13] [Async Chat Thread - #44/INFO]: [Not Secure] <.ColdSnoW2486> y te preguntaba si era que salieron de los retoños de abeto
-[03:08:20] [Server thread/WARN]: .ColdSnoW2486 moved wrongly!
-[03:08:26] [Async Chat Thread - #44/INFO]: [Not Secure] <H_imperio> si
-[03:08:31] [Async Chat Thread - #44/INFO]: [Not Secure] <.ColdSnoW2486> god
-[03:08:41] [Async Chat Thread - #44/INFO]: [Not Secure] <.ColdSnoW2486> el podzol sirve para granja de hongos
-[03:08:45] [Async Chat Thread - #44/INFO]: [Not Secure] <H_imperio> quiero cubrir todo este suelo con eso
-[03:08:57] [Async Chat Thread - #44/INFO]: [Not Secure] <H_imperio> es muy linda y queda god
-[03:09:08] [Async Chat Thread - #44/INFO]: [Not Secure] <.ColdSnoW2486> te entiendo
-[03:09:14] [Server thread/INFO]: .ColdSnoW2486 has made the advancement [We Need to Go Deeper]
-[03:09:22] [Async Chat Thread - #44/INFO]: [Not Secure] <.ColdSnoW2486> goood
-[03:09:28] [Async Chat Thread - #45/INFO]: [Not Secure] <.ColdSnoW2486> bosque distorsionado
-[03:09:36] [Async Chat Thread - #45/INFO]: [Not Secure] <H_imperio> a ver voy
-[03:10:06] [Async Chat Thread - #45/INFO]: [Not Secure] <H_imperio> se pasó un cerdo
-[03:10:10] [Async Chat Thread - #45/INFO]: [Not Secure] <.ColdSnoW2486> si XD
-[03:10:15] [Async Chat Thread - #45/INFO]: [Not Secure] <.ColdSnoW2486> venia corriendo hacia mi
-[03:10:18] [Server thread/INFO]: H_imperio has made the advancement [We Need to Go Deeper]
-[03:10:19] [Server thread/INFO]: Villager Villager['Villager'/24515, uuid='49cd662a-feaa-4812-af32-a15962e495b8', l='ServerLevel[world]', x=864.41, y=61.00, z=90.87, cpos=[54, 5], tl=24224, v=true] died, message: 'Villager suffocated in a wall'
-[03:10:21] [Async Chat Thread - #45/INFO]: [Not Secure] <.ColdSnoW2486> y me puse en el portal
-[03:10:26] [Async Chat Thread - #45/INFO]: [Not Secure] <.ColdSnoW2486> y se teletransportó
-[03:10:35] [Async Chat Thread - #45/INFO]: [Not Secure] <H_imperio> ya
-[03:10:56] [Async Chat Thread - #45/INFO]: [Not Secure] <.ColdSnoW2486> tenemos bosque distorsionado y el carmesí juntos
-[03:11:14] [Async Chat Thread - #44/INFO]: [Not Secure] <.ColdSnoW2486> el distorsionado para los enderman
-[03:11:36] [Async Chat Thread - #44/INFO]: [Not Secure] <H_imperio> god
-[03:13:23] [Async Chat Thread - #46/INFO]: [Not Secure] <H_imperio> me olvidé qué iba a hacer
-[03:13:32] [Async Chat Thread - #46/INFO]: [Not Secure] <.ColdSnoW2486> XD
-[03:14:04] [Async Chat Thread - #46/INFO]: [Not Secure] <.ColdSnoW2486> GATILLO
-[03:15:27] [Async Chat Thread - #48/INFO]: [Not Secure] <.ColdSnoW2486> NO TE VAYAS
-[03:15:29] [Async Chat Thread - #48/INFO]: [Not Secure] <.ColdSnoW2486> GATOO
-[03:15:35] [Async Chat Thread - #48/INFO]: [Not Secure] <H_imperio> xddd
-[03:15:47] [Async Chat Thread - #48/INFO]: [Not Secure] <.ColdSnoW2486> lo necesito
-[03:16:11] [Async Chat Thread - #48/INFO]: [Not Secure] <.ColdSnoW2486> ay ya que se vaya al
-[03:16:15] [Async Chat Thread - #48/INFO]: [Not Secure] <.ColdSnoW2486> alv*
-[03:17:06] [Async Chat Thread - #48/INFO]: [Not Secure] <.ColdSnoW2486> tienes una zona libre?
-[03:17:12] [Async Chat Thread - #48/INFO]: [Not Secure] <H_imperio> ¿Cómo?
-[03:17:19] [Async Chat Thread - #48/INFO]: [Not Secure] <.ColdSnoW2486> una zona bonita
-[03:17:31] [Async Chat Thread - #48/INFO]: [Not Secure] <H_imperio> ehhh
-[03:17:33] [Async Chat Thread - #48/INFO]: [Not Secure] <H_imperio> no entiendo
-[03:17:46] [Async Chat Thread - #48/INFO]: [Not Secure] <.ColdSnoW2486> necesito algo plano
-[03:17:51] [Async Chat Thread - #48/INFO]: [Not Secure] <H_imperio> ah
-[03:18:02] [Async Chat Thread - #48/INFO]: [Not Secure] <H_imperio> no, yo tuve que aplanar para algunas cosas
-[03:18:20] [Async Chat Thread - #48/INFO]: [Not Secure] <H_imperio> más lejitos capaz
-[03:18:34] [Async Chat Thread - #48/INFO]: [Not Secure] <.ColdSnoW2486> aquí
-[03:19:00] [Async Chat Thread - #48/INFO]: [Not Secure] <.ColdSnoW2486> que malos recuerdos
-[03:19:04] [Async Chat Thread - #48/INFO]: [Not Secure] <H_imperio> ?
-[03:19:11] [Async Chat Thread - #48/INFO]: [Not Secure] <.ColdSnoW2486> aplanar terreno
-[03:24:04] [Async Chat Thread - #50/INFO]: [Not Secure] <.ColdSnoW2486> bien
-[03:25:23] [Async Chat Thread - #52/INFO]: [Not Secure] <.ColdSnoW2486> lag
-[03:27:10] [Async Chat Thread - #54/INFO]: [Not Secure] <.ColdSnoW2486> tienes lana?
-[03:27:21] [Async Chat Thread - #54/INFO]: [Not Secure] <H_imperio> la gasté
-[03:27:41] [Async Chat Thread - #54/INFO]: [Not Secure] <.ColdSnoW2486> madera?
-[03:27:49] [Async Chat Thread - #54/INFO]: [Not Secure] <H_imperio> ahí hay
-[03:27:57] [Async Chat Thread - #54/INFO]: [Not Secure] <.ColdSnoW2486> hierro para tolvas?
-[03:28:12] [Async Chat Thread - #54/INFO]: [Not Secure] <H_imperio> si en la granja creo que queda un stack
-[03:31:51] [Async Chat Thread - #56/INFO]: [Not Secure] <.ColdSnoW2486> sigues ahí?
-[03:31:58] [Async Chat Thread - #56/INFO]: [Not Secure] <H_imperio> si
-[03:35:57] [Async Chat Thread - #58/INFO]: [Not Secure] <.ColdSnoW2486> como tarda en abrir el teclado mi viejo celu wn
-[03:36:13] [Async Chat Thread - #58/INFO]: [Not Secure] <H_imperio> el mío también
-[03:36:26] [Async Chat Thread - #58/INFO]: [Not Secure] <.ColdSnoW2486> porque tardan en abrir el teclado????
-[03:36:36] [Async Chat Thread - #59/INFO]: [Not Secure] <H_imperio> ni idea
-[03:39:24] [Async Chat Thread - #60/INFO]: [Not Secure] <.ColdSnoW2486> pito
-[03:39:34] [Async Chat Thread - #60/INFO]: [Not Secure] <H_imperio> ¿dónde?
-[03:39:55] [Async Chat Thread - #60/INFO]: [Not Secure] <.ColdSnoW2486> sospechoso
-[03:39:59] [Async Chat Thread - #60/INFO]: [Not Secure] <H_imperio> XD
-[03:46:31] [Async Chat Thread - #62/INFO]: [Not Secure] <H_imperio> NO ME DA PROTECCIÓN AHHHHHH
-[03:46:48] [Async Chat Thread - #62/INFO]: [Not Secure] <.ColdSnoW2486> lo mismo sufrí yo
-[03:46:52] [Async Chat Thread - #62/INFO]: [Not Secure] <.ColdSnoW2486> X'D
-[03:53:10] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] ColdSnoW2486 has disconnected from the Java server because of Bedrock client timed out
-[03:53:10] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .ColdSnoW2486 disconnected
-[03:53:10] [Server thread/INFO]: .ColdSnoW2486 lost connection: Disconnected
-[03:53:10] [Server thread/INFO]: .ColdSnoW2486 left the game
-[03:53:40] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username ColdSnoW2486
-[03:53:40] [localSession-7-4/INFO]: [Geyser-Spigot] ColdSnoW2486 (logged in as: ColdSnoW2486) has connected to the Java server
-[03:53:40] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ColdSnoW2486 joined (UUID: 00000000-0000-0000-0009-01f2871f7db7)
-[03:53:40] [Server thread/INFO]: .ColdSnoW2486 joined the game
-[03:53:40] [Server thread/INFO]: .ColdSnoW2486[/127.188.192.207:0] logged in with entity id 33602 at ([world]902.5334, 74.0, 46.024086)
-[03:54:22] [Async Chat Thread - #64/INFO]: [Not Secure] <.ColdSnoW2486> e
-[03:55:09] [Async Chat Thread - #64/INFO]: [Not Secure] <H_imperio> ?
-[03:55:18] [Async Chat Thread - #64/INFO]: [Not Secure] <.ColdSnoW2486> es que me sacó xd
-[03:55:24] [Async Chat Thread - #64/INFO]: [Not Secure] <H_imperio> a
-[03:56:09] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] ColdSnoW2486 has disconnected from the Java server because of Bedrock client timed out
-[03:56:09] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .ColdSnoW2486 disconnected
-[03:56:09] [Server thread/INFO]: .ColdSnoW2486 lost connection: Disconnected
-[03:56:09] [Server thread/INFO]: .ColdSnoW2486 left the game
-[03:56:32] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.165.93.127 has disconnected for reason Please log into Xbox to join this server.
-[03:57:02] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username ColdSnoW2486
-[03:57:02] [localSession-7-1/INFO]: [Geyser-Spigot] ColdSnoW2486 (logged in as: ColdSnoW2486) has connected to the Java server
-[03:57:02] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ColdSnoW2486 joined (UUID: 00000000-0000-0000-0009-01f2871f7db7)
-[03:57:02] [Server thread/INFO]: .ColdSnoW2486 joined the game
-[03:57:02] [Server thread/INFO]: .ColdSnoW2486[/127.165.93.127:0] logged in with entity id 34000 at ([world]899.85767, 69.0, 52.69999)
-[03:57:19] [Async Chat Thread - #66/INFO]: [Not Secure] <H_imperio> we
-[03:57:25] [Async Chat Thread - #66/INFO]: [Not Secure] <.ColdSnoW2486> ?
-[03:57:26] [Async Chat Thread - #66/INFO]: [Not Secure] <H_imperio> ¿Qué hacer?
-[03:57:31] [Async Chat Thread - #66/INFO]: [Not Secure] <H_imperio> haces?
-[03:57:39] [Async Chat Thread - #66/INFO]: [Not Secure] <.ColdSnoW2486> nada?
-[03:57:47] [Async Chat Thread - #66/INFO]: [Not Secure] <H_imperio> ah la granja depolvora
-[03:58:03] [Async Chat Thread - #66/INFO]: [Not Secure] <.ColdSnoW2486> zi
-[03:58:16] [epollEventLoopGroup-3-1/WARN]: [org.cloudburstmc.netty.handler.codec.raknet.server.RakServerRateLimiter] [/127.165.93.127] Blocked because packet limit was reached
-[03:58:26] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] ColdSnoW2486 has disconnected from the Java server because of Bedrock client timed out
-[03:58:26] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .ColdSnoW2486 disconnected
-[03:58:26] [Server thread/INFO]: .ColdSnoW2486 lost connection: Disconnected
-[03:58:26] [Server thread/INFO]: .ColdSnoW2486 left the game
-[03:58:26] [epollEventLoopGroup-3-1/INFO]: [org.cloudburstmc.netty.handler.codec.raknet.server.RakServerRateLimiter] Unblocked address /127.165.93.127
-[04:03:53] [Async Chat Thread - #68/INFO]: [Not Secure] <H_imperio> está bien
-[04:04:51] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username ColdSnoW2486
-[04:04:51] [localSession-7-2/INFO]: [Geyser-Spigot] ColdSnoW2486 (logged in as: ColdSnoW2486) has connected to the Java server
-[04:04:51] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ColdSnoW2486 joined (UUID: 00000000-0000-0000-0009-01f2871f7db7)
-[04:04:51] [Server thread/INFO]: .ColdSnoW2486 joined the game
-[04:04:51] [Server thread/INFO]: .ColdSnoW2486[/127.165.93.127:0] logged in with entity id 34802 at ([world]900.4786, 69.0, 53.69999)
-[04:05:35] [Async Chat Thread - #70/INFO]: [Not Secure] <.ColdSnoW2486> gracias we
-[04:05:40] [Async Chat Thread - #70/INFO]: [Not Secure] <H_imperio> de nada
-[04:05:50] [Async Chat Thread - #70/INFO]: [Not Secure] <.ColdSnoW2486> mañana seguimos
-[04:05:53] [Async Chat Thread - #70/INFO]: [Not Secure] <.ColdSnoW2486> <3
-[04:05:54] [Async Chat Thread - #70/INFO]: [Not Secure] <H_imperio> dale
-[04:05:56] [Async Chat Thread - #70/INFO]: [Not Secure] <H_imperio> bye
-[04:06:00] [Async Chat Thread - #70/INFO]: [Not Secure] <.ColdSnoW2486> bais
-[04:06:02] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .ColdSnoW2486 disconnected
-[04:06:02] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] ColdSnoW2486 has disconnected from the Java server because of Bedrock client disconnected
-[04:06:02] [Server thread/INFO]: .ColdSnoW2486 lost connection: Disconnected
-[04:06:02] [Server thread/INFO]: .ColdSnoW2486 left the game
-[04:16:25] [Server thread/INFO]: H_imperio lost connection: Disconnected
-[04:16:25] [Server thread/INFO]: H_imperio left the game
-[04:16:38] [Server thread/INFO]: Stopping the server
-[04:16:38] [Server thread/INFO]: Stopping server
-[04:16:38] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.7
-[04:16:38] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.2-SNAPSHOT
-[04:16:38] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[04:16:38] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[04:16:38] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.4.2-SNAPSHOT
-[04:16:38] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b118-40d320a)
-[04:16:38] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.2-SNAPSHOT
-[04:16:38] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[04:16:38] [Server thread/INFO]: Saving players
-[04:16:38] [WebSocketConnectReadThread-456/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[04:16:38] [Server thread/INFO]: Saving worlds
-[04:16:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:16:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[04:16:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[04:16:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[04:16:38] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 70 entity chunks, 0 poi chunks in world 'world' in 0.04s
-[04:16:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[04:16:38] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[04:16:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[04:16:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[04:16:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[04:16:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[04:16:38] [Server thread/INFO]: [ChunkHolderManager] Saved 294 block chunks, 72 entity chunks, 0 poi chunks in world 'world_nether' in 0.17s
-[04:16:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[04:16:38] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[04:16:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[04:16:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[04:16:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[04:16:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[04:16:39] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[04:16:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[04:16:39] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[04:16:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:16:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:16:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:16:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[04:16:39] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[04:16:39] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[04:16:39] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[04:16:39] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[19:31:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:31:23] [ServerMain/INFO]: Loaded 1407 recipes
+[19:31:23] [ServerMain/INFO]: Loaded 1520 advancements
+[19:31:23] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[19:31:23] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 393.6ms
+[19:31:23] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[19:31:23] [Server thread/INFO]: Loading properties
+[19:31:23] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[19:31:23] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[19:31:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:31:23] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:31:24] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[19:31:24] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[19:31:24] [Server thread/INFO]: Default game type: SURVIVAL
+[19:31:24] [Server thread/INFO]: Generating keypair
+[19:31:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:31:24] [Server thread/INFO]: Using epoll channel type
+[19:31:24] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[19:31:24] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[19:31:25] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.2-SNAPSHOT
+[19:31:25] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.2-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
+[19:31:25] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[19:31:25] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[19:31:26] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[19:31:26] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[19:31:26] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[19:31:27] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[19:31:27] [Server thread/INFO]: [floodgate] Took 813ms to boot Floodgate
+[19:31:27] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.2-SNAPSHOT
+[19:31:27] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
+[19:31:28] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[19:31:28] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[19:31:28] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
+[19:31:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:31:28] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
+[19:31:29] [Server thread/ERROR]: [SkinsRestorer] Your Minecraft version (1.21.8) is not supported by this version of SkinsRestorer! Is there a newer version available? https://modrinth.com/plugin/skinsrestorer If not, join our Discord server!
+[19:31:29] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[19:31:29] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[19:31:29] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[19:31:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:31:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:31:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:31:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:31:29] [Server thread/INFO]: Preparing level "world"
+[19:31:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:31:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[19:31:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[19:31:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[19:31:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[19:31:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[19:31:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:31:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.7
+[19:31:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7eff058
+[19:31:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[19:31:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:31:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[19:31:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[19:31:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:31:30] [Server thread/INFO]: Preparing spawn area: 0%
+[19:31:30] [Server thread/INFO]: Preparing spawn area: 34%
+[19:31:31] [Server thread/INFO]: Time elapsed: 969 ms
+[19:31:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:31:31] [Server thread/INFO]: Preparing spawn area: 0%
+[19:31:31] [Server thread/INFO]: Time elapsed: 359 ms
+[19:31:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:31:31] [Server thread/INFO]: Preparing spawn area: 0%
+[19:31:31] [Server thread/INFO]: Time elapsed: 203 ms
+[19:31:31] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.2-SNAPSHOT
+[19:31:31] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
+[19:31:31] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[19:31:31] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.2-SNAPSHOT
+[19:31:31] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
+[19:31:32] [Server thread/INFO]: [spark] Starting background profiler...
+[19:31:33] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[19:31:33] [Server thread/INFO]: [Geyser-Spigot] 
+[19:31:33] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b887 (git-master-1f23d1d)
+[19:31:33] [Server thread/INFO]: [Geyser-Spigot] 
+[19:31:33] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[19:31:37] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on UDP port 2113
+[19:31:37] [Server thread/INFO]: [Geyser-Spigot] Done (4.298s)! Run /geyser help for help!
+[19:31:37] [Server thread/INFO]: Done preparing level "world" (8.429s)
+[19:31:37] [Server thread/INFO]: Running delayed init tasks
+[19:31:38] [Server thread/INFO]: Done (26.859s)! For help, type "help"
+[19:31:38] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[19:31:38] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.4.2, you're on: 5.4.2-SNAPSHOT
+[19:31:47] [User Authenticator #0/INFO]: UUID of player H_imperio is 554ba1d1-bcf2-3427-a8c0-008a2575b2aa
+[19:31:47] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer]
+[19:31:51] [Server thread/INFO]: H_imperio joined the game
+[19:31:51] [Server thread/INFO]: H_imperio[/127.26.159.67:41875] logged in with entity id 57 at ([world]870.0194293234, 61.5, 99.60763516560931)
