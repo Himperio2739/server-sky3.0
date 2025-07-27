@@ -454,3 +454,31 @@
 [03:53:40] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ColdSnoW2486 joined (UUID: 00000000-0000-0000-0009-01f2871f7db7)
 [03:53:40] [Server thread/INFO]: .ColdSnoW2486 joined the game
 [03:53:40] [Server thread/INFO]: .ColdSnoW2486[/127.188.192.207:0] logged in with entity id 33602 at ([world]902.5334, 74.0, 46.024086)
+[03:54:22] [Async Chat Thread - #64/INFO]: [Not Secure] <.ColdSnoW2486> e
+[03:55:09] [Async Chat Thread - #64/INFO]: [Not Secure] <H_imperio> ?
+[03:55:18] [Async Chat Thread - #64/INFO]: [Not Secure] <.ColdSnoW2486> es que me sacó xd
+[03:55:24] [Async Chat Thread - #64/INFO]: [Not Secure] <H_imperio> a
+[03:56:09] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] ColdSnoW2486 has disconnected from the Java server because of Bedrock client timed out
+[03:56:09] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .ColdSnoW2486 disconnected
+[03:56:09] [Server thread/INFO]: .ColdSnoW2486 lost connection: Disconnected
+[03:56:09] [Server thread/INFO]: .ColdSnoW2486 left the game
+[03:56:32] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.165.93.127 has disconnected for reason Please log into Xbox to join this server.
+[03:57:02] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username ColdSnoW2486
+[03:57:02] [localSession-7-1/INFO]: [Geyser-Spigot] ColdSnoW2486 (logged in as: ColdSnoW2486) has connected to the Java server
+[03:57:02] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ColdSnoW2486 joined (UUID: 00000000-0000-0000-0009-01f2871f7db7)
+[03:57:02] [Server thread/INFO]: .ColdSnoW2486 joined the game
+[03:57:02] [Server thread/INFO]: .ColdSnoW2486[/127.165.93.127:0] logged in with entity id 34000 at ([world]899.85767, 69.0, 52.69999)
+[03:57:19] [Async Chat Thread - #66/INFO]: [Not Secure] <H_imperio> we
+[03:57:25] [Async Chat Thread - #66/INFO]: [Not Secure] <.ColdSnoW2486> ?
+[03:57:26] [Async Chat Thread - #66/INFO]: [Not Secure] <H_imperio> ¿Qué hacer?
+[03:57:31] [Async Chat Thread - #66/INFO]: [Not Secure] <H_imperio> haces?
+[03:57:39] [Async Chat Thread - #66/INFO]: [Not Secure] <.ColdSnoW2486> nada?
+[03:57:47] [Async Chat Thread - #66/INFO]: [Not Secure] <H_imperio> ah la granja depolvora
+[03:58:03] [Async Chat Thread - #66/INFO]: [Not Secure] <.ColdSnoW2486> zi
+[03:58:16] [epollEventLoopGroup-3-1/WARN]: [org.cloudburstmc.netty.handler.codec.raknet.server.RakServerRateLimiter] [/127.165.93.127] Blocked because packet limit was reached
+[03:58:26] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] ColdSnoW2486 has disconnected from the Java server because of Bedrock client timed out
+[03:58:26] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .ColdSnoW2486 disconnected
+[03:58:26] [Server thread/INFO]: .ColdSnoW2486 lost connection: Disconnected
+[03:58:26] [Server thread/INFO]: .ColdSnoW2486 left the game
+[03:58:26] [epollEventLoopGroup-3-1/INFO]: [org.cloudburstmc.netty.handler.codec.raknet.server.RakServerRateLimiter] Unblocked address /127.165.93.127
+[04:03:53] [Async Chat Thread - #68/INFO]: [Not Secure] <H_imperio> está bien
