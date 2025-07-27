@@ -123,3 +123,35 @@
 [01:27:23] [User Authenticator #1/INFO]: UUID of player H_imperio is 554ba1d1-bcf2-3427-a8c0-008a2575b2aa
 [01:27:25] [Server thread/INFO]: H_imperio joined the game
 [01:27:25] [Server thread/INFO]: H_imperio[/127.26.159.67:51247] logged in with entity id 10663 at ([world]810.5722011576364, 68.9375, 78.70240131208729)
+[01:38:46] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username ColdSnoW2486
+[01:38:46] [localSession-7-3/INFO]: [Geyser-Spigot] ColdSnoW2486 (logged in as: ColdSnoW2486) has connected to the Java server
+[01:38:46] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ColdSnoW2486 joined (UUID: 00000000-0000-0000-0009-01f2871f7db7)
+[01:38:46] [Server thread/INFO]: .ColdSnoW2486 joined the game
+[01:38:46] [Server thread/INFO]: .ColdSnoW2486[/127.165.93.127:0] logged in with entity id 12207 at ([world]-802.1964721679688, 62.23747863769531, 270.3470764160156)
+[01:39:08] [Async Chat Thread - #4/INFO]: [Not Secure] <.ColdSnoW2486> ?????
+[01:39:13] [Async Chat Thread - #4/INFO]: [Not Secure] <.ColdSnoW2486> we
+[01:39:23] [Async Chat Thread - #4/INFO]: [Not Secure] <H_imperio> ¿SI?
+[01:39:33] [Async Chat Thread - #4/INFO]: [Not Secure] <.ColdSnoW2486> no estoy en la aldea
+[01:39:39] [Async Chat Thread - #4/INFO]: [Not Secure] <.ColdSnoW2486> ayer me diste cosas de hierro
+[01:39:52] [Async Chat Thread - #5/INFO]: [Not Secure] <.ColdSnoW2486> hoy regreso y tengo las cosas que me desaparecieron ayer
+[01:39:56] [Async Chat Thread - #4/INFO]: [Not Secure] <.ColdSnoW2486> y en un barco
+[01:40:04] [Server thread/INFO]: H_imperio issued server command: /tp .coldsnow2486 h_imperio
+[01:40:04] [Server thread/INFO]: [H_imperio: Teleported .ColdSnoW2486 to H_imperio]
+[01:40:33] [Async Chat Thread - #4/INFO]: [Not Secure] <.ColdSnoW2486> que hiciste aquí?
+[01:40:34] [Async Chat Thread - #4/INFO]: [Not Secure] <H_imperio> wtf
+[01:40:39] [Async Chat Thread - #4/INFO]: [Not Secure] <H_imperio> hice bastante
+[01:40:56] [Async Chat Thread - #4/INFO]: [Not Secure] <.ColdSnoW2486> tienes lava?
+[01:41:01] [Async Chat Thread - #4/INFO]: [Not Secure] <H_imperio> si
+[01:41:07] [Async Chat Thread - #5/INFO]: [Not Secure] <.ColdSnoW2486> dame pla
+[01:41:09] [Async Chat Thread - #5/INFO]: [Not Secure] <.ColdSnoW2486> pls*
+[01:41:16] [Async Chat Thread - #5/INFO]: [Not Secure] <H_imperio> pera
+[01:41:26] [Async Chat Thread - #5/INFO]: [Not Secure] <H_imperio> tengo que ir a buscar
+[01:41:28] [Async Chat Thread - #5/INFO]: [Not Secure] <H_imperio> xd
+[01:41:50] [Async Chat Thread - #5/INFO]: [Not Secure] <.ColdSnoW2486> goood
+[01:41:54] [Async Chat Thread - #5/INFO]: [Not Secure] <.ColdSnoW2486> hay cañita
+[01:42:15] [Async Chat Thread - #5/INFO]: [Not Secure] <.ColdSnoW2486> y esto?
+[01:42:23] [Async Chat Thread - #5/INFO]: [Not Secure] <H_imperio> me va lag
+[01:42:41] [Async Chat Thread - #5/INFO]: [Not Secure] <H_imperio> ¿Que cosa?
+[01:42:44] [Async Chat Thread - #5/INFO]: [Not Secure] <.ColdSnoW2486> ya vi
+[01:42:49] [Async Chat Thread - #5/INFO]: [Not Secure] <.ColdSnoW2486> es una granja de hierro
+[01:43:00] [Server thread/INFO]: .ColdSnoW2486 has made the advancement [Sweet Dreams]
